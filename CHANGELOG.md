@@ -41,5 +41,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Limited to English by default
 - Fullscreen games may block input in some cases
 
-[Unreleased]: https://github.com/YOUR-USERNAME/voice-to-text-decky/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/YOUR-USERNAME/voice-to-text-decky/releases/tag/v1.0.0
+[Unreleased]: https://github.com/chelbig695/voice-to-text-decky/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/chelbig695/voice-to-text-decky/releases/tag/v1.0.0
