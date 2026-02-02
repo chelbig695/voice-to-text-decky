@@ -15,7 +15,7 @@ Open Konsole in Desktop Mode:
 
 ```bash
 cd ~/homebrew/plugins
-git clone https://github.com/YOUR-USERNAME/voice-to-text-decky.git
+git clone https://github.com/chelbig695/voice-to-text-decky.git
 cd voice-to-text-decky
 ```
 
@@ -129,8 +129,8 @@ Then edit `main.py` line 58 to use the new model path.
 
 - 📖 Full documentation: [README.md](README.md)
 - 🔧 Detailed troubleshooting: [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
-- 🐛 Report issues: [GitHub Issues](https://github.com/YOUR-USERNAME/voice-to-text-decky/issues)
-- 💬 Ask questions: [GitHub Discussions](https://github.com/YOUR-USERNAME/voice-to-text-decky/discussions)
+- 🐛 Report issues: [GitHub Issues](https://github.com/chelbig695/voice-to-text-decky/issues)
+- 💬 Ask questions: [GitHub Discussions](https://github.com/chelbig695/voice-to-text-decky/discussions)
 
 ## Upgrade to Better Accuracy
 
