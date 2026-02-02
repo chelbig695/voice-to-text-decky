@@ -25,7 +25,7 @@ A quick voice-to-text plugin for Steam Deck that lets you dictate text instead o
 ```bash
 # In Desktop Mode, open Konsole and run:
 cd ~/homebrew/plugins
-git clone https://github.com/YOUR-USERNAME/voice-to-text-decky.git
+git clone https://github.com/chelbig695/voice-to-text-decky.git
 cd voice-to-text-decky
 chmod +x install.sh
 ./install.sh
