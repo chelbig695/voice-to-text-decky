@@ -45,7 +45,7 @@ Replace `YOUR-USERNAME` with your actual GitHub username:
 
 ```bash
 # Add the remote repository
-git remote add origin https://github.com/YOUR-USERNAME/voice-to-text-decky.git
+git remote add origin https://github.com/chelbig695/voice-to-text-decky.git
 
 # Push to GitHub
 git branch -M main
@@ -70,7 +70,7 @@ Now that you know your GitHub username, update these files:
 
 ### 1. README.md
 
-Replace `YOUR-USERNAME` with your actual username:
+Replace `chelbig695` with your actual username:
 - Installation URLs
 - Badge links
 - Issue tracker links
@@ -81,7 +81,7 @@ Update the repository URLs:
 ```json
 "repository": {
   "type": "git",
-  "url": "https://github.com/YOUR-ACTUAL-USERNAME/voice-to-text-decky.git"
+  "url": "https://github.com/chelbig695/voice-to-text-decky.git"
 },
 ```
 
@@ -91,7 +91,7 @@ Update the version links at the bottom.
 
 ### 4. All .md files
 
-Search for `YOUR-USERNAME` and replace with your actual username.
+Search for `chelbig695` and replace with your actual username.
 
 Then commit and push the changes:
 ```bash
@@ -149,7 +149,7 @@ See [QUICKSTART.md](QUICKSTART.md) for installation instructions.
 You can add a downloads badge once your plugin gains traction:
 
 ```markdown
-![GitHub Downloads](https://img.shields.io/github/downloads/YOUR-USERNAME/voice-to-text-decky/total)
+![GitHub Downloads](https://img.shields.io/github/downloads/chelbig695/voice-to-text-decky/total)
 ```
 
 ## Step 9: Submit to Decky Plugin Store (Optional)
@@ -255,7 +255,7 @@ Use a Personal Access Token as your password (see Step 4).
 
 ```bash
 git remote remove origin
-git remote add origin https://github.com/YOUR-USERNAME/voice-to-text-decky.git
+git remote add origin https://github.com/chelbig695/voice-to-text-decky.git
 ```
 
 ### Large files rejected
@@ -273,7 +273,7 @@ git push
 
 ```bash
 # Use find and replace
-find . -type f -name "*.md" -exec sed -i 's/YOUR-USERNAME/actual-username/g' {} +
+find . -type f -name "*.md" -exec sed -i 's/chelbig695/actual-username/g' {} +
 git add .
 git commit -m "docs: update username in documentation"
 git push
