@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-USERNAME/voice-to-text-decky.git"
+    "url": "https://github.com/chelbig695/voice-to-text-decky.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR-USERNAME/voice-to-text-decky/issues"
+    "url": "https://github.com/chelbig695/voice-to-text-decky/issues"
   },
-  "homepage": "https://github.com/YOUR-USERNAME/voice-to-text-decky#readme",
+  "homepage": "https://github.com/chelbig695/voice-to-text-decky#readme",
   "keywords": [
     "decky",
     "plugin",
