@@ -1,0 +1,10 @@
+{
+  "name": "Voice to Text",
+  "author": "Your Name",
+  "flags": ["_root"],
+  "publish": {
+    "tags": ["utility", "accessibility", "input"],
+    "description": "Quick voice-to-text button for typing in games like WoW",
+    "image": "https://via.placeholder.com/256x256.png"
+  }
+}

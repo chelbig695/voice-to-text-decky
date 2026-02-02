@@ -1,0 +1,50 @@
+{
+  "name": "voice-to-text-decky",
+  "version": "1.0.0",
+  "description": "Quick voice-to-text input for Steam Deck gaming",
+  "scripts": {
+    "build": "shim",
+    "watch": "shim"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/voice-to-text-decky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR-USERNAME/voice-to-text-decky/issues"
+  },
+  "homepage": "https://github.com/YOUR-USERNAME/voice-to-text-decky#readme",
+  "keywords": [
+    "decky",
+    "plugin",
+    "voice",
+    "speech",
+    "accessibility",
+    "steam-deck",
+    "gaming",
+    "wow",
+    "voice-to-text"
+  ],
+  "author": "Your Name",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "@types/react": "16.14.0",
+    "@types/webpack": "^5.28.0",
+    "decky-frontend-lib": "^3.25.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "shx": "^0.3.4",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "react-icons": "^4.7.1"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "react",
+        "react-dom"
+      ]
+    }
+  }
+}

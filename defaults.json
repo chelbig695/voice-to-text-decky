@@ -1,0 +1,6 @@
+{
+  "maxRecordingTime": 10,
+  "autoStopRecording": true,
+  "autoTypeAfterTranscription": true,
+  "showNotifications": true
+}
