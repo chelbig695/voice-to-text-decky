@@ -34,7 +34,7 @@ Feature requests are welcome! Please create an issue describing:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR-USERNAME/voice-to-text-decky.git
+git clone https://github.com/chelbig695/voice-to-text-decky.git
 cd voice-to-text-decky
 
 # Install dependencies
